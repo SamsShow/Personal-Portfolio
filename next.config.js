@@ -14,7 +14,7 @@ const nextConfig = {
 };
 
 module.exports = {
-  nextConfig,
+  // nextConfig,
   output: {
     export: true,
   },
