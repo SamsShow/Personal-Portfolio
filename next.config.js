@@ -18,4 +18,7 @@ module.exports = {
   output: {
     export: true,
   },
+  experimental: {
+    serverActions: true,
+  },
 };
