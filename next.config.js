@@ -12,9 +12,4 @@ const nextConfig = {
   },
 };
 
-module.exports = {
-  ...nextConfig,
-  output: {
-    export: true,
-  },
-};
+module.exports = nextConfig
