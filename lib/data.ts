@@ -101,7 +101,7 @@ export const projectsData = [
     tags: ["HTML", "CSS", "Javascript"],
     imageUrl: imgsearch,
     githubUrl: "https://github.com/SamsShow/ImageSearch",
-    ProjectUrl: "https://samsshow.github.io/ImageSearch/"
+    ProjectUrl: "https://image-search-samsshows-projects.vercel.app/"
   },
   {
     title: "QR Code Generator",
@@ -110,7 +110,7 @@ export const projectsData = [
     tags: ["HTML", "Tailwind", "JavaScript"],
     imageUrl: qrcode,
     githubUrl: "https://github.com/SamsShow/Cleancode",
-    ProjectUrl: "https://samsshow.github.io/Cleancode/"
+    ProjectUrl: "https://cleancode-three.vercel.app/"
   },
   {
     title: "Hoverboard",
@@ -119,7 +119,7 @@ export const projectsData = [
     tags: ["HTML", "Tailwind", "JavaScript"],
     imageUrl: hoverboard,
     githubUrl: "https://github.com/SamsShow/hoverboard",
-    ProjectUrl: "https://samsshow.github.io/hoverboard/"
+    ProjectUrl: "https://hoverboard-six-gamma.vercel.app/"
   },
 ] as const;
 
