@@ -35,36 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Tech Team Lead",
-    location: "K. L. International School,In",
-    description:
-      "Worked in many functions organised by my school, Managing them from backstage. Won a couple of interschool competitions. Worked as a Team Lead.",
-    icon: React.createElement(FaReact),
-    date: "Jan 2018 - Jun 2022",
-  },
-  {
-    title: "National Tech Team",
-    location: "Studomatrix, In",
-    description:
-      "An All India School Students Organization with over 75000 members from 150+ Cities ● I was a part of the National Tech Team ● Mentored students on Graphic Designing and Video Editing.",
-    icon: React.createElement(FaReact),
-    date: "Aug 2022 - July 2023",
-  },
-  {
-    title: "Graphic Coordinator",
+    title: "Open Source Coordinator",
     location: "GeeksforGeeks ABESEC, In",
     description:
-      "Worked as a Graphics Coordinator in G.",
+      "",
     icon: React.createElement(FaReact),
-    date: "Jan 2023-Oct 2023",
-  },
-  {
-    title: "Frontend Web Developer",
-    location: "Elixir Tech Community, In",
-    description:
-      "Designed the Front End of the Event page using HTML, CSS &JS.",
-    icon: React.createElement(FaReact),
-    date: "May 2023",
+    date: "Oct 2023",
   },
   {
     title: "Graphics & Development Coordinator",
@@ -75,12 +51,36 @@ export const experiencesData = [
     date: "Oct 2023",
   },
   {
-    title: "Open Source Coordinator",
+    title: "Frontend Web Developer",
+    location: "Elixir Tech Community, In",
+    description:
+      "Designed the Front End of the Event page using HTML, CSS &JS.",
+    icon: React.createElement(FaReact),
+    date: "May 2023",
+  },
+  {
+    title: "Graphic Coordinator",
     location: "GeeksforGeeks ABESEC, In",
     description:
-      "",
+      "Worked as a Graphics Coordinator in G.",
     icon: React.createElement(FaReact),
-    date: "Oct 2023",
+    date: "Jan 2023-Oct 2023",
+  },
+  {
+    title: "National Tech Team",
+    location: "Studomatrix, In",
+    description:
+      "An All India School Students Organization with over 75000 members from 150+ Cities ● I was a part of the National Tech Team ● Mentored students on Graphic Designing and Video Editing.",
+    icon: React.createElement(FaReact),
+    date: "Aug 2022 - July 2023",
+  },
+  {
+    title: "Tech Team Lead",
+    location: "K. L. International School,In",
+    description:
+      "Worked in many functions organised by my school, Managing them from backstage. Won a couple of interschool competitions. Worked as a Team Lead.",
+    icon: React.createElement(FaReact),
+    date: "Jan 2018 - Jun 2022",
   },
 ] as const;
 
