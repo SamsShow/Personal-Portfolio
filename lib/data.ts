@@ -35,12 +35,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "UI Designer",
+    location: "IKnowSpots, In",
+    description:
+      "As an intern UI designer, I have worked on a diverse range of projects involving both Web3 and Web2 UI designs",
+    icon: React.createElement(FaReact),
+    date: "Feb 2024",
+  },
+  {
     title: "Open Source Coordinator",
     location: "GeeksforGeeks ABESEC, In",
     description:
       "",
     icon: React.createElement(FaReact),
-    date: "Oct 2023",
+    date: "Oct 2023 - Jan 2024",
   },
   {
     title: "Graphics & Development Coordinator",
@@ -48,7 +56,7 @@ export const experiencesData = [
     description:
       "",
     icon: React.createElement(FaReact),
-    date: "Oct 2023",
+    date: "Oct 2023 - July 2024",
   },
   {
     title: "Frontend Web Developer",
@@ -85,6 +93,16 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "FundMe",
+    description:
+      "A Blockchain-based project for managing funds with flexibility to securely lock and withdraw cryptocurrency.",
+    tags: [ "Solidity", "Hardhat", "EtherJs", "Javascript", "Tailwind"],
+    imageUrl: "https://media.licdn.com/dms/image/D5622AQEuqLZ3hnCcqQ/feedshare-shrink_1280/0/1714090591482?e=1724889600&v=beta&t=DcZi8yFqK8D2401O6sq7zKcy6v9fgSTy2Nm_PKYjoUc",
+    githubUrl: "https://github.com/SamsShow/FundMe-Frontend",
+    ProjectUrl: "https://fund-me-frontend-plum.vercel.app/"
+  },
+  
   {
     title: "Stellr Vue",
     description:
@@ -129,6 +147,7 @@ export const skillsData = [
   "Bootstarp",
   "JavaScript",
   "React",
+  "Solidity"
   "Git",
   "Github",
   "Tailwind",
