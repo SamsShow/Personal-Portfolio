@@ -147,7 +147,7 @@ export const skillsData = [
   "Bootstarp",
   "JavaScript",
   "React",
-  "Solidity"
+  "Solidity",
   "Git",
   "Github",
   "Tailwind",
