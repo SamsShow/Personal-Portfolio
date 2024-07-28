@@ -62,10 +62,9 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Saksham.</span> I'm a{" "}
-        <span className="font-bold">front-end web developer {" "}</span>and a <span className="font-bold">Graphics Designer{" "}</span> I enjoy
-        building <span className="italic">sites</span>. My focus is{" "}
-        <span className="underline">React</span>.
+        <span className="font-bold">Hello, I'm Saksham.</span> I'm a {" "}
+        <span className="font-bold">front-end web developer {" "}</span>and a <span className="font-bold">UI Designer{" "}</span> Proficient in technologies like JavaScript, React, and Solidity, <span className="italic"> I bring a comprehensive approach to</span>. {" "}
+        <span className="underline">web development.</span>.
       </motion.h1>
 
       <motion.div
@@ -90,7 +89,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-95 hover:scale-95 active:scale-90 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Resume Updated.pdf"
+          href="https://1drv.ms/b/s!ArEsGPnowN-M70ZfuMBQ64D2AX4b?e=AqktUH"
           download
         >
           Download Resume{" "}
