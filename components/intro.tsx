@@ -9,6 +9,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
+import resume from "@/public/SakshamTyagiResume.pdf";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -89,7 +90,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-95 hover:scale-95 active:scale-90 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="https://1drv.ms/b/s!ArEsGPnowN-M70ZfuMBQ64D2AX4b?e=AqktUH"
+          href= "./public/Saksham Tyagi - Resume.pdf"
           download
         >
           Download Resume{" "}

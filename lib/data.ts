@@ -3,7 +3,7 @@ import { FaReact } from "react-icons/fa";
 import imgsearch from "@/public/ImageSearch_.png";
 import qrcode from "@/public/Cleancode_.png";
 import hoverboard from "@/public/hoverboard.png";
-import corpcommentImg from "@/public/corpcomment.png";
+import fundme from "@/public/fundme.png";
 import stellar from "@/public/Stellarvue.png";
 
 export const links = [
@@ -40,7 +40,7 @@ export const experiencesData = [
     description:
       "As an intern UI designer, I have worked on a diverse range of projects involving both Web3 and Web2 UI designs",
     icon: React.createElement(FaReact),
-    date: "Feb 2024",
+    date: "Feb 2024 - July 2024",
   },
   {
     title: "Open Source Coordinator",
@@ -98,10 +98,12 @@ export const projectsData = [
     description:
       "A Blockchain-based project for managing funds with flexibility to securely lock and withdraw cryptocurrency.",
     tags: [ "Solidity", "Hardhat", "EtherJs", "Javascript", "Tailwind"],
-    imageUrl: "https://media.licdn.com/dms/image/D5622AQEuqLZ3hnCcqQ/feedshare-shrink_1280/0/1714090591482?e=1724889600&v=beta&t=DcZi8yFqK8D2401O6sq7zKcy6v9fgSTy2Nm_PKYjoUc",
+    imageUrl: fundme,
     githubUrl: "https://github.com/SamsShow/FundMe-Frontend",
     ProjectUrl: "https://fund-me-frontend-plum.vercel.app/"
   },
+
+  
   
   {
     title: "Stellr Vue",
