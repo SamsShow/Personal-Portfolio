@@ -5,6 +5,8 @@ import qrcode from "@/public/Cleancode_.png";
 import hoverboard from "@/public/hoverboard.png";
 import fundme from "@/public/fundme.png";
 import stellar from "@/public/Stellarvue.png";
+import refer from "@/public/Hero Section.png";
+import remex from "@/public/Landing Page.png";
 
 export const links = [
   {
@@ -102,8 +104,6 @@ export const projectsData = [
     githubUrl: "https://github.com/SamsShow/FundMe-Frontend",
     ProjectUrl: "https://fund-me-frontend-plum.vercel.app/"
   },
-
-  
   
   {
     title: "Stellr Vue",
@@ -140,6 +140,25 @@ export const projectsData = [
     imageUrl: hoverboard,
     githubUrl: "https://github.com/SamsShow/hoverboard",
     ProjectUrl: "https://hoverboard-six-gamma.vercel.app/"
+  },
+] as const;
+
+export const uiProjectsData = [
+  {
+    title: "Ref3R",
+    description: "A platform that easily facilitates brand-influencer collaboration for brands, with the ability to enable multiple campaign management and performance tracking on the part of the brand and influencer recipients.",
+    tags: ["Figma", "Spline", "Adobe Illustrator", "Adobe Photoshop"],
+    imageUrl: refer,
+    figmaUrl: "https://www.figma.com/design/l1aMLxaJC5VBV4k5U7wP8k/Ref3R?node-id=0-1&t=ebLb5ZbPN60QD9eX-1",
+    CaseUrl: "https://bit.ly/Ref3rUx",
+  },
+  {
+    title: "Remex",
+    description: "A comprehensive web application for a cutting-edge crypto trading platform. The platform integrates CeFi and DeFi features, offering users various tools like GNS Pool, LP Vaults, and advanced analytics to enhance their trading experience.",
+    tags: ["Figma", "Spline", "Adobe Illustrator", "Adobe Photoshop"],
+    imageUrl: remex,
+    figmaUrl: "https://www.figma.com/design/9r7v12Enx2AZlkPN5JRJDM/remex-Design?node-id=3-3915&t=dzDlGbmOLeiG6RBV-1",
+    CaseUrl: "https://bit.ly/remexUx",
   },
 ] as const;
 
