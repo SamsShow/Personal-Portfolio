@@ -7,6 +7,8 @@ import fundme from "@/public/fundme.png";
 import stellar from "@/public/Stellarvue.png";
 import refer from "@/public/Hero Section.png";
 import remex from "@/public/Landing Page.png";
+import rosper from "@/public/rosper.png";
+import hexus from "@/public/hexus 2.png";
 
 export const links = [
   {
@@ -159,6 +161,22 @@ export const uiProjectsData = [
     imageUrl: remex,
     figmaUrl: "https://www.figma.com/design/9r7v12Enx2AZlkPN5JRJDM/remex-Design?node-id=3-3915&t=dzDlGbmOLeiG6RBV-1",
     CaseUrl: "https://bit.ly/remexUx",
+  },
+  {
+    title: "Rosper",
+    description: "Rosper is an all-in-one application that bridges the gap between brands and influencers through seamless creation, management, and tracking of marketing campaigns.",
+    tags: ["Figma", "Adobe Illustrator", "Adobe Photoshop"],
+    imageUrl:rosper,
+    figmaUrl: "https://www.figma.com/design/2Uqfv0hhgCMWhho91oyyOj/Rosper?node-id=0-1&t=FFeeAyD10HIloj20-1",
+    CaseUrl: "https://1drv.ms/b/s!ArEsGPnowN-M8Ai-uXAxhA2AuO5x?e=0OYXiq",
+  },
+  {
+    title: "Hexs",
+    description: "Rosper is an all-in-one application that bridges the gap between brands and influencers through seamless creation, management, and tracking of marketing campaigns.",
+    tags: ["Figma", "Adobe Illustrator", "Adobe Photoshop"],
+    imageUrl:hexus,
+    figmaUrl: "https://www.figma.com/design/NdiF2K57TJ1T8OPuif1hZV/Hexs-Internet?node-id=0-1&t=q1eidNi7jSukBWLj-1",
+    CaseUrl: "https://1drv.ms/b/s!ArEsGPnowN-M8AnjQd_ayujMLnMN?e=pXvkaM",
   },
 ] as const;
 
