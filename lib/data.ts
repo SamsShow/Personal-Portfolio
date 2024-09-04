@@ -172,7 +172,7 @@ export const uiProjectsData = [
   },
   {
     title: "Hexs",
-    description: "Rosper is an all-in-one application that bridges the gap between brands and influencers through seamless creation, management, and tracking of marketing campaigns.",
+    description: ": Hexs is a cutting-edge AI-powered platform for generating stunning visuals through text-to-image technology. The platform is designed for both ease of use and advanced functionality, with features like wallet integration and comprehensive model management.",
     tags: ["Figma", "Adobe Illustrator", "Adobe Photoshop"],
     imageUrl:hexus,
     figmaUrl: "https://www.figma.com/design/NdiF2K57TJ1T8OPuif1hZV/Hexs-Internet?node-id=0-1&t=q1eidNi7jSukBWLj-1",
