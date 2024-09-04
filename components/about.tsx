@@ -21,7 +21,7 @@ export default function About() {
       <p className="mb-3">
       Hey there! I'm Saksham Tyagi, a frontend web developer and ui designer. I have a passion for problem-solving and creating stunning user interfaces and experiences. With my expertise in web design and graphic designing, I can weave enchanting spells and conjure fantastical online worlds.
       </p>
-      <p>I am currently working as a UI Designer at IKnowSpots and frontend web developer at ElixirTech Community and also serving as a Open Source & graphic coordinator at GeeksforGeeks ABES Chapter.</p>
+      <p>I worked as a UI Designer at IKnowSpots and frontend web developer at ElixirTech Community and also served as a Open Source & graphic coordinator at GeeksforGeeks ABES Chapter & Codechef ABES Chapter.</p>
 
       <p>
       Aside from my professional work, I have also excelled in various competitions, including winning first prizes in interschool graphic competitions, an interschool music video competition, and securing second prize in an interschool COVID-19 animation competition.
