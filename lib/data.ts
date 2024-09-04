@@ -203,6 +203,9 @@ export const skillsData = [
   "Adobe Premier Pro",
   "Adobe After Effects",
   "Figma",
+  "Spline",
   "Kdenlive",
   "Canva",
+  "Python",
+  "SQL",
 ] as const;
