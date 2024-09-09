@@ -89,7 +89,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-95 hover:scale-95 active:scale-90 transition cursor-pointer borderBlack dark:bg-white/10"
-          href= "./public/Saksham Tyagi - Resume.pdf"
+          href= "./public/Saksham Tyagi ATS Resume.pdf"
           download
         >
           Download Resume{" "}
